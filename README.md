@@ -4,7 +4,7 @@ TF-IDF model for classification of cuisines.
 This project uses TF-IDF model to correctly classify a recipe into 20 cuisines by looking at the ingredients used in the recipe.
 
 ## Dataset
-Source - Kaggle
+Source - Kaggle \n
 Features - Dish ingredients, Cuisine
 
 ## Model
